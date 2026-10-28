@@ -1,0 +1,9 @@
+nouveau fichier :
+1. gateau.html
+2. transférer le contenu dans gateau.html
+3. Supprimer le contenu de index.html pour repartir de zéro
+4. Sur index : 
+- un titre
+- un lien vers la page gateau
+5. Sur la page gateau, ajouter un lien vers la page d'accueil (index.html) 
+modif
